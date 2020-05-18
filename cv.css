@@ -3,7 +3,8 @@
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 10px;
     grid-auto-rows: minmax(100px, auto);
-    padding: 50px;
+    margin: auto;
+    
   }
   .div1 {
     grid-column: 1 / 3;
